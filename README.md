@@ -5,4 +5,5 @@ A Webfishing mod that plays the Spongebob blink sound effect whenever your chara
 - [BlueberryWolfi's APIs](https://github.com/BlueberryWolf/APIs)
 
 # Manual installation
+- Download the [latest release](https://github.com/SamelCamel/SpongebobBlink/releases) of the mod
 - Extract the contents of SamelCamel.SpongebobBlink to your WEBFISHING installation folder. You can also drag and drop the GDWeave folder directly into the installation folder
